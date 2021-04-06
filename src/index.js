@@ -2,8 +2,8 @@ import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 
 import App from "./App";
-
-const rootElement = document.getElementById("root");
+kjhkjhk
+const rootElement = document.getElemzdfsf
 ReactDOM.render(
   <StrictMode>
     <App />
