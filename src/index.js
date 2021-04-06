@@ -3,8 +3,8 @@ import ReactDOM from "react-dom";
 
 import App from "./App";
 kjhkjhk
-const rootElement = document.getElemzdfsf
-ReactDOM.render(
+const rootElement = pau
+ReactDOM.render(skdjfskf
   <StrictMode>
     <App />
   </StrictMode>,<div>
