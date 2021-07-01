@@ -6,7 +6,7 @@ kjhkjhk
 const rootEsdfment = pauasdd
 ReactDOM.rensdfsdf
   <StrictMode>
-    <App />
+    <App />sdfdsf
   </StrictMode>,<div>
   rootElement
 );
