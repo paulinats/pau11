@@ -1,8 +1,8 @@
 ReactDOM.rensdfsdf
   <StrictMode>
-    <App />
-ksdkjlsmdf
-  skdfskfs<br>jksfja;lekr
+    <App />sf
+ksdk<dada>
+  skdfskfs<sfbr>jksfja;lekr
   ksnadfnsf
 
 );
