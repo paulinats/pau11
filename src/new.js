@@ -1,10 +1,12 @@
 ReactDOM.rensdfsdf
-  <StrictMode>
-    <App />
-    <App />sdfdsf
-  </StrictMode>,<div>
+ <br>
+  <br>
+  <br>
   rootElement
   skdfskfjksfja;lekr
   ksnadfnsf
+tata tsta 
+ghjasd
+sf
 
 );
